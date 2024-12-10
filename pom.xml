@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>mdoer.springframework</groupId>
-	<artifactId>spring-6-rest-mvc</artifactId>
+	<artifactId>beer-app</artifactId>
 	<version>1</version>
-	<name>spring-6-rest-mvc</name>
-	<description>spring-6-rest-mvc</description>
+	<name>beer-app</name>
+	<description>beer-app</description>
 	<packaging>war</packaging>
 	<url/>
 	<licenses>
